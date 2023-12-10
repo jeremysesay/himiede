@@ -1,0 +1,16 @@
+---
+title: "Himiede Wilson-Sesay"
+resources: Resume.pdf
+about: 
+  template: jolla
+  image: Himiede.jpg
+  image-width: 15em
+  image-shape: round
+  links: 
+    - icon: main-text
+      text: Resume
+      href: Resume.pdf
+---
+
+Bsc. Biology and Chemistry,\
+M.phil Applied Epidemiology, Ph.D Epidemiology and Biostatistics (cand.)

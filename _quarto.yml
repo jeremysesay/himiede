@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EPIDEMIOLOGIST"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - Education.qmd
+      - Experience.qmd
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.3rem
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual
+
